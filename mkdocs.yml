@@ -1,0 +1,7 @@
+site_name: 中庸
+nav:
+  - 简介: index.md
+
+theme: readthedocs
+
+extra_javascript: ['https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML','js/mathjaxhelper.js']
